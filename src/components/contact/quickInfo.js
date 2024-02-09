@@ -10,7 +10,7 @@ const useStyles = makeStyles((theme) => ({
    }
 }));
 
-const skillSetData = [{title: 'Current Employer', description: 'Keysight Technologies'}, {title: 'Designation', description: 'R&D Engineer'}, {title: 'Email', description: 'knowprabhjyot@gmail.com'}]
+const skillSetData = [{title: 'Current Employer', description: 'Keysight Technologies'}, {title: 'Designation', description: 'R&D Engineer III'}, {title: 'Email', description: 'kshitizgupta2941996@gmail.com'}]
 
 const QuickInfo = () => {
     const classes = useStyles();

@@ -51,9 +51,9 @@ const BannerSection = (props) => {
                             </Typography>
                         </Box>
                     </Grid>
-                    <Grid item xs={6}>
+                    {/* <Grid item xs={6}>
                         <img alt="me" className={classes.image} src={props.bannerConfig.image2} />
-                    </Grid>
+                    </Grid> */}
                 </Grid>
             </Box>
         </Box>

@@ -70,13 +70,13 @@ const LeftPanel = () => {
                         }}
                         variant="dot"
                     >
-                        <Avatar className={classes.media} alt="Prabhjyot Gambhir" src="../images/me.JPG" />
+                        <Avatar className={classes.media} alt="Kshitiz Gupta" src="../images/me.png" />
                     </StyledBadge>
                     <CardContent>
                         <Box display="grid" gridGap="16px">
                             <Box display="flex" flexDirection="column" alignItems="center">
                                 <Typography variant="h5" component="h2">
-                                    Prabhjyot Gambhir
+                                    Kshitiz Gupta
                                 </Typography>
                                 <Typography variant="body2" component="p">
                                     Full Stack Web Developer
@@ -99,7 +99,7 @@ const LeftPanel = () => {
                                         City:
                                     </Typography>
                                     <Typography variant="body2">
-                                        Vancouver, BC
+                                        New Delhi
                                     </Typography>
                                     </Box>
                                     <Box display="flex" justifyContent="space-between">
@@ -107,7 +107,7 @@ const LeftPanel = () => {
                                         Age
                                     </Typography>
                                     <Typography variant="body2">
-                                        28
+                                        27
                                     </Typography>
                                     </Box>
                                     </Box>

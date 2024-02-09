@@ -9,19 +9,19 @@ import { Box } from '@material-ui/core';
 const SocialSection = () => {
     return (
         <Box display="flex" justifyContent="space-between">
-        <a rel = "noopener noreferrer" href="https://www.facebook.com/prabhjotgambhir" target = "_blank">
+        <a rel = "noopener noreferrer" href="https://www.facebook.com/kshitiz.gupta.712" target = "_blank">
             <FacebookIcon color="secondary" />
         </a>
-        <a rel = "noopener noreferrer" href="https://www.linkedin.com/in/prabhgambhir/" target = "_blank">
+        <a rel = "noopener noreferrer" href="https://www.linkedin.com/in/kshitiz-gupta-28a38012b" target = "_blank">
             <LinkedInIcon color="secondary" />
         </a>
-        <a rel = "noopener noreferrer" href="https://www.instagram.com/prabhjyot_gambhir/" target = "_blank">
+        <a rel = "noopener noreferrer" href="https://www.instagram.com/kshitiz.gupta.712" target = "_blank">
             <InstagramIcon color="secondary" />
         </a>
-        <a rel = "noopener noreferrer" href="https://twitter.com/PrabhjyotGambh1" target = "_blank">
+        <a rel = "noopener noreferrer" href="https://twitter.com/Kshitiz0496" target = "_blank">
             <TwitterIcon  color="secondary"/>
         </a>
-        <a rel = "noopener noreferrer" href="https://github.com/knowprabhjyot" target = "_blank">
+        <a rel = "noopener noreferrer" href="https://github.com/Kshitiz294" target = "_blank">
             <GitHubIcon  color="secondary" />
         </a>
         </Box>

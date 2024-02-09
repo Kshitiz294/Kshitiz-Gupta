@@ -41,7 +41,7 @@ const Portfolio = () => {
           >
             <img
               
-              alt="Prabhjyot Gambhir"
+              alt="Kshitiz Gupta"
               key={index}
               src={item.image}
               className={classes.image}
@@ -74,10 +74,10 @@ const Portfolio = () => {
 
 const portfolioData = [
   {
-    title: "Medico",
+    title: "Test Station Manager",
     description:
-      "Medico is full fledged IOS application built over React Native ",
-    image: "../images/web6.jpg",
+      "TSM is a cloud-based test system/instrument management application. Users can connect their systems to cloud, monitor their status and run test programs or updates on their systems.",
+    image: "../images/TSM.png",
   },
   {
     title: "Switch Manager",
@@ -86,22 +86,16 @@ const portfolioData = [
     image: "../images/web9.png",
   },
   {
-    title: "Know Prabhjyot",
+    title: "Cloud Drive",
     description:
-      "The Web Resume which you are viewing, obviously it is my product too. Made with love in React and Node js and Fully Responsive Website.",
-    image: "../images/web7.jpg",
+      "This is a virtual file system for storing user files. These files can be anything, such as instrument details, instrument settings, tests, test results, software updates etc.",
+    image: "../images/cloud-drive.png",
   },
   {
-    title: "Referyaar",
+    title: "User Administration",
     description:
-      "Referyaar is one of my favorite products, I worked on Designed on Angular and Node, this beauty is a social media referral app with almost all features like Wallet to Friends list.",
-    image: "../images/web8.jpg",
-  },
-  {
-    title: "Intelli-H",
-    description:
-      "Intelli-H is a home automation app to turn on lights and fans with additional features like smoke detection, Temperature. With Flat Design and implementation with hardware is a perfect Comp-Elec application",
-    image: "../images/app2.jpg",
+      "This is an administration panel for managing access controls to users for different test systems and artifacts. Users can create and assign control policies to team members based on the access required.",
+    image: "../images/user-admin.png",
   },
 ];
 

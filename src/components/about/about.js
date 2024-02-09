@@ -41,7 +41,7 @@ const About = () => {
                     </Box>
                 </Box>
                 <Typography variant="subtitle2">
-                    Hello my name is Prabhjyot Gambhir and I am a Software Engineer. I love developing full fledged web and mobile applications.
+                    Hello my name is Kshitiz Gupta and I am a Software Engineer. I love developing full fledged web and mobile applications.
                     One thing I have improved over time in me, is not giving up. If I want to achieve a milestone, and I don't know how to do it, I will be honest to myself and dedicate more time to explore and learn. But that's what we do in real life right ?
                     I may be blunt or straight forward, but I am loyal, if I chose you then I will be there for you 24 hours, because that's what I do.
                     Challenges excite me, staying idle frights me!

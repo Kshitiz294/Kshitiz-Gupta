@@ -20,13 +20,13 @@ const Footer = () => {
                 <Grid item>
                     <Typography variant="body2">
                         <Box display="flex" alignItems="center">
-                            Made with  <FavoriteIcon style={{padding: '0px 4px'}} color="secondary"/>  by Prabhjyot
+                            Made with  <FavoriteIcon style={{padding: '0px 4px'}} color="secondary"/>  by Kshitiz
                         </Box>
                     </Typography>
                 </Grid>
                 <Grid item>
                     <Typography variant="body2">
-                        Email : knowprabhjyot@gmail.com
+                        Email : kshitizgupta2941996@gmail.com
                     </Typography>
                 </Grid>
             </Grid>
