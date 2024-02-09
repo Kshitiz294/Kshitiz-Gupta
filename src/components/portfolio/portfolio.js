@@ -88,13 +88,13 @@ const portfolioData = [
   {
     title: "Cloud Drive",
     description:
-      "This is a virtual file system for storing user files. These files can be anything, such as instrument details, instrument settings, tests, test results, software updates etc.",
+      "Cloud Drive is a virtual file system for storing user files. These files can be anything, such as instrument details, instrument settings, tests, test results, software updates etc.",
     image: "../images/cloud-drive.png",
   },
   {
     title: "User Administration",
     description:
-      "This is an administration panel for managing access controls to users for different test systems and artifacts. Users can create and assign control policies to team members based on the access required.",
+      "Administration panel for managing access controls to users for different test systems and artifacts. Users can create and assign control policies to team members based on the access required.",
     image: "../images/user-admin.png",
   },
 ];

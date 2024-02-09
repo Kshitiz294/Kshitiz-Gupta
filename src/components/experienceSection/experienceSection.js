@@ -21,10 +21,7 @@ const useStyles = makeStyles((theme) => ({
 const ExperienceSection = () => {
   const classes = useStyles();
   const experenceData = [
-    { name: "Industry Experience", value: 4 },
-    { name: "Completed Projects", value: 10 },
-    { name: "Companies Worked", value: 3 },
-    { name: "Years of Teaching", value: 1 },
+    { name: "Industry Experience", value: 5 }
   ];
 
   const showExperience = () => {

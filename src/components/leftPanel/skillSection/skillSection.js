@@ -16,12 +16,12 @@ const skillData = [
 const SkillSection = () => {
   return skillData.map((item, index) => {
     return (
-      <Box key={index} display="grid" gridGap="12px" width="100%">
+      <Box key={index} display="grid" gridGap="4px" width="100%">
         <Box display="flex" flexDirection="row" justifyContent="space-between">
-          <Typography style={{ paddingLeft: 8, paddingTop: 8 }} component="p">
+          <Typography style={{ marginTop: 12 }} component="p">
             {item.name}
           </Typography>
-          <Typography component="p">{item.value} %</Typography>
+          <Typography style={{ marginTop: 12 }} component="p">{item.value} %</Typography>
         </Box>
         <LinearProgress
           color="secondary"
