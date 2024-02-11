@@ -72,12 +72,12 @@ const educationData = [
       "Designed and Developed Rest API’s for performing CRUD operations across pathwave using Node & Nest JS.",
       "Gained Hand’s on experience in technologies like React, Angular, Node, Javascript, Docker, Kubernetes, Mongo DB, SQL.",
     ],
-    description: "Worked as R&D Engineer I in Pathwave Cloud Team, and worked on multiple projects like - Pathwave Projects, Pathwave Stations, Switch Manager, Alloy",
+    description: "Working as R&D Engineer III in Pathwave Cloud Team, on multiple projects like - Test Station Manager, Cloud Drive, User Admin, Switch Manager, Alloy",
   },
   {
     title: "Indraprastha University",
     description:
-      "Engineering have made me of what I am today.I have been lucky having such a great experience so far, Additionally I gained was way over mere marks. With developing Home Automation App to Learning Data Structures and Algorithms, Programming have been my favorite subject above all",
+      "Engineering have made me of what I am today. I have been lucky having such a great experience so far. Additionally I gained was way over mere marks. With developing Home Automation App to Learning Data Structures and Algorithms, Programming have been my favorite subject above all.",
   },
   {
     title: "Sechdeva Public School",

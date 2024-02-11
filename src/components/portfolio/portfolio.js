@@ -97,6 +97,18 @@ const portfolioData = [
       "Administration panel for managing access controls to users for different test systems and artifacts. Users can create and assign control policies to team members based on the access required.",
     image: "../images/user-admin.png",
   },
+  {
+    title: "Sudoku",
+    description:
+      "Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9 x 9 grid with digits so that each column, each row, and each of the 3 x 3 boxes that compose the grid contain all the digits from 1 to 9.",
+    image: "../images/sudoku.png",
+  },
+  {
+    title: "Minesweeper",
+    description:
+      "Minesweeper is a single-player puzzle video game. The objective of the game is to clear a rectangular board containing hidden “mines” or bombs without detonating any of them, with the help of clues about the number of neighboring mines in each field.",
+    image: "../images/minesweeper.png",
+  },
 ];
 
 export default Portfolio;
