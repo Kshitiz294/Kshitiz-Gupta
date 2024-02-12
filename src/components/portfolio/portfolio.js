@@ -24,7 +24,7 @@ const useStyles = makeStyles((theme) => ({
 
 const Portfolio = () => {
   const classes = useStyles();
-  let [cardView, setCardView] = useState(-1);
+  let [_cardView, setCardView] = useState(-1);
 
   const showPort = () => {
     return portfolioData.map((item, index) => {

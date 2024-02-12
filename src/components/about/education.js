@@ -12,7 +12,6 @@ import React from "react";
 import LaptopMacIcon from "@material-ui/icons/LaptopMac";
 import Card from "../common/card/card";
 import SchoolIcon from "@material-ui/icons/School";
-import WorkIcon from "@material-ui/icons/Work";
 
 const useStyles = makeStyles((theme) => ({
   heading: {

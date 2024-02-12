@@ -27,7 +27,7 @@ const skillSetData = [
     title: "Devops",
     description:
       "Continuous deployment, is required big time in today's time it saves huge hassle and makes developers life easier.",
-    tags: [, "Docker", "Kubernetes", "Jenkins"],
+    tags: ["Docker", "Kubernetes", "Jenkins"],
   },
   {
     title: "Product Management",

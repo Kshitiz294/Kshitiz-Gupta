@@ -3,7 +3,6 @@ import { makeStyles, withStyles } from '@material-ui/core/styles';
 import CardContent from '@material-ui/core/CardContent';
 import Typography from '@material-ui/core/Typography';
 import { Avatar, Box, Container, Divider, Grid } from '@material-ui/core';
-import LanguageSection from './languageSection/languageSection';
 import SkillSection from './skillSection/skillSection';
 import SocialSection from './socialSection/socialSection';
 import Badge from '@material-ui/core/Badge';
