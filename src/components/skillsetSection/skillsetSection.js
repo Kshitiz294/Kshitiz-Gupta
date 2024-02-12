@@ -27,19 +27,13 @@ const skillSetData = [
     title: "Devops",
     description:
       "Continuous deployment, is required big time in today's time it saves huge hassle and makes developers life easier.",
-    tags: ["AWS", "Docker", "Kubernetes", "Jenkins"],
-  },
-  {
-    title: "UI/UX Design",
-    description:
-      "If the flow of the website ain't good, User would be confused and would fail in proper engagement",
-    tags: ["Photoshop", "Illustrator", "Figma"],
+    tags: ["Docker", "Kubernetes", "Jenkins"],
   },
   {
     title: "Product Management",
     description:
       "The succesful delivery of the product is achieved by completing milestones with the given deadlines",
-      tags: ["Agile", "Trello", "Jira", "Confluence"],
+      tags: ["Agile", "Jira", "Confluence"],
 
   },
   {

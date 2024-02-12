@@ -73,7 +73,7 @@ const Card = (props) => {
                 </Button>
               </Link>
             ) : (
-              <a href={props.path} className={classes.link} target="_blank">
+              <a href={props.path} className={classes.link} target="_blank" rel="noreferrer">
                 <Button fullWidth variant="outlined" color="secondary">
                   {props.buttonLabel}
                   <ArrowForward />
