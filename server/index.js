@@ -21,14 +21,14 @@ app.post('/contact',(req,res,next)=>{
     const transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
-        user: 'chintu.sps@gmail.com',//replace with your email
-        pass: 'telekinesis'//replace with your password
+        user: process.env.email,//replace with your email
+        pass: process.env.password//replace with your password
         }
     });
     
     const mailOptions = {
-        from: 'chintu.sps@gmail.com',//replace with your email
-        to: 'chintu.sps@gmail.com',//replace with your email
+        from: process.env.email,//replace with your email
+        to: process.env.email,//replace with your email
         subject: `Contact name: ${req.body.firstName} ${req.body.lastName}`,
         html: `<h1>Contact details</h1>
             <h2> Name: ${req.body.firstName} ${req.body.lastName} </h2><br>
